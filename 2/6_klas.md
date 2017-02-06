@@ -4,6 +4,7 @@
 
 ## (122 год., 3,5 год на тиждень) <br> (6 год. – резерв годин для використання на розсуд учителя)
 
+<hr>
 <p><b>Зміст розділу:</b></p>
 <ul type="disc">
 <li><a href="https://ukrmon59.ed-era.com/2/movlennyeva_zmistova_liniya.html">Мовленнєва змістова лінія</a></li>
