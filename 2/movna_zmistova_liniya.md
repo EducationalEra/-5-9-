@@ -4,9 +4,18 @@
 
 <p><b>Зміст розділу:</b></p>
 <ul type="circle">
-<li><a href="http://ukrmon14.ed-era.com/1/tekst_rechennya_slovo.html">Текст. Речення. Слово</a></li>
-<li><a href="http://ukrmon14.ed-era.com/1/zvuki_i_bukvi_sklad_nagolos.html">Звуки і букви. Склад. Наголос</a></li>
-<li><a href="http://ukrmon14.ed-era.com/1/pravopis.html">Правопис</a></li>
+<li><a href="http://ukrmon59.ed-era.com/2/vstup.html">Вступ</a></li>
+<li><a href="http://ukrmon59.ed-era.com/2/povtorennya_vivkhenogo_v_pokhatkovych_klasah.html">Повторення, узагальнення  й поглиблення вивченого</a></li>
+<li><a href="http://ukrmon59.ed-era.com/2/leksikologiya.html">Лексикологія. Фразеологія</a></li>
+<li><a href="http://ukrmon59.ed-era.com/2/slovotvir_orfografiya.html">Словотвір. Орфографія</a></li>
+<li><a href="http://ukrmon59.ed-era.com/2/morfologyua_orfografiya.html">Морфологія. Орфографія</a></li>
+<ul type="square">
+<li><a href="http://ukrmon59.ed-era.com/2/imennyk.html">Іменник</a></li>
+<li><a href="http://ukrmon59.ed-era.com/2/prikmetnyk.html">Прикметник</a></li>
+<li><a href="http://ukrmon59.ed-era.com/2/chyslivnyk.html">Числівник</a></li>
+<li><a href="http://ukrmon59.ed-era.com/2/zaymennyk.html">Займенник</a></li>
+</ul>
+<li><a href="http://ukrmon59.ed-era.com/2/povtorennya_ta_uzagalnennya_v_kinci_roku.html">Повторення в кінці року</a></li>
 </ul>
 
 <div class="js-hypercomments-container">

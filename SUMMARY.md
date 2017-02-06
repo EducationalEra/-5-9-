@@ -91,7 +91,7 @@
            * [Прийменник](3/pryumennyk.md)
            * [Сполучник](3/spoluchnik.md)
            * [Частка](3/chastka.md)
-           * [Вигук ](3/vuguk.md)
+           * [Вигук](3/vuguk.md)
        * [Узагальнення й систематизація вивченого](3/povtorennya_ta_uzagalnennya_v_kinci_roku.md)
    * [Соціокультурна змістова лінія](3/sotsiokulturna_zmistova_liniya.md)
    * [Діяльнісна змістова лінія](3/diyalnisna_zmistova_liniya.md)

@@ -7,38 +7,42 @@
 <hr>
 <p><b>Зміст розділу:</b></p>
 <ul type="disc">
-<li><a href="http://ukrmon14.ed-era.com/4/movlennyeva_zmistova_liniya.html">Мовленнєва змістова лінія</a></li>
+<li><a href="https://ukrmon59.ed-era.com/5/movlennyeva_zmistova_liniya.html">Мовленнєва змістова лінія</a></li>
 <ul type="circle">
-<li><a href="http://ukrmon14.ed-era.com/4/audiyuvannya.html">Аудіювання – слухання-розуміння усного мовлення</a></li>
-<li><a href="http://ukrmon14.ed-era.com/4/govorinnya.html">Говоріння</a></li>
-<li><a href="http://ukrmon14.ed-era.com/4/chiannya.html">Читання</a></li>
-<li><a href="http://ukrmon14.ed-era.com/4/pisemne_movlennya.html">Писемне мовлення</a></li>
-</ul>
-<li><a href="http://ukrmon14.ed-era.com/4/movna_zmistova_liniya.html">Мовна змістова лінія</a></li>
-<ul type="circle">
-<li><a href="http://ukrmon14.ed-era.com/4/mova_i_movlennya.html">Мова і мовлення</a></li>
-<li><a href="http://ukrmon14.ed-era.com/4/tekst.html">Текст</a></li>
-<li><a href="http://ukrmon14.ed-era.com/4/rechennya.html">Речення</a></li>
-<li><a href="http://ukrmon14.ed-era.com/4/slovo_znachennya_slova_chastini_movi.html">Слово. Значення слова. Частини мови</a></li>
+<li><a href="http://ukrmon59.ed-era.com/5/vidomosty_pro_movlennya.html">Відомості про мовлення</a></li>
+<li><a href="http://ukrmon59.ed-era.com/5/vydy_robyt.html">Види робіт</a></li>
 <ul type="square">
-<li><a href="http://ukrmon14.ed-era.com/4/imennik.html">Іменник</a></li>
-<li><a href="http://ukrmon14.ed-era.com/4/prikmetnik.html">Прикметник</a></li>
-<li><a href="http://ukrmon14.ed-era.com/4/chislivnik.html">Числівник</a></li>
-<li><a href="http://ukrmon14.ed-era.com/4/zaymennik.html">Займенник</a></li>
-<li><a href="http://ukrmon14.ed-era.com/4/diyeslovo.html">Дієслово</a></li>
-<li><a href="http://ukrmon14.ed-era.com/4/prislivnik.html">Прислівник</a></li>
+<li><a href="http://ukrmon59.ed-era.com/5/spryumannya_ckhuzhogo_movlennya.html">Сприймання чужого мовлення</a></li>
+<ul type="disc">
+<li><a href="https://ukrmon59.ed-era.com/5/audyuvannya.html">Аудіювання (слухання-розуміння)</a></li>
+<li><a href="https://ukrmon59.ed-era.com/5/chytannya.html">Читання (мовчки і вголос)</a></li>
 </ul>
-<li><a href="http://ukrmon14.ed-era.com/4/povtorennya_vivchenogo_u_pochatkovikh_klasah.html">Повторення вивченого у початкових класах</a></li>
-<li><a href="http://ukrmon14.ed-era.com/4/pravopis.html">Правопис</a></li>
-<li><a href="http://ukrmon14.ed-era.com/4/grafichni_navichki_pisma_tekhnika_pisma_kultura_oformlennya_pismovikh_robit.html">Графічні навички письма. Техніка письма. Культура оформлення письмових робіт</a></li>
+<li><a href="http://ukrmon59.ed-era.com/5/vidtvorennya_gotovogo_tekstu.html">Відтворення готового тексту</a></li>
+<li><a href="http://ukrmon59.ed-era.com/5/stvorennya_vlasnykh_vyslovluvan.html">Створення власних висловлювань</a></li>
+<ul type="disc">
+<li><a href="https://ukrmon59.ed-era.com/5/dialogichne_movlennya.html">Діалогічне мовлення</a></li>
+<li><a href="https://ukrmon59.ed-era.com/5/monologychne_movlennya.html">Монологічне мовлення</a></li>
 </ul>
-<li><a href="http://ukrmon14.ed-era.com/4/diyalnisna_zmistova_liniya.html">Діяльнісна змістова лінія</a></li>
+<li><a href="http://ukrmon59.ed-era.com/5/mizhpredmetny_zvyazki.html">Міжпредметні зв'язки</a></li>
+</ul>
+</ul>
+<li><a href="https://ukrmon59.ed-era.com/5/movna_zmistova_liniya.html">Мовна змістова лінія</a></li>
 <ul type="circle">
-<li><a href="http://ukrmon14.ed-era.com/4/formuvannya_navchalno-organizatsiynikh_umin_i_navichok.html">Формування навчально-організаційних умінь і навичок</a></li>
-<li><a href="http://ukrmon14.ed-era.com/4/formuvannya_navchalno-informatsiynikh_umin_i_navichok.html">Формування навчально-інформаційних умінь і навичок</a></li>
-<li><a href="http://ukrmon14.ed-era.com/4/formuvannya_navchalno-intelektualnikh_i_tvorchikh_umin_ta_navichok.html">Формування навчально-інтелектуальних і творчих умінь та навичок</a></li>
-<li><a href="http://ukrmon14.ed-era.com/4/formuvannya_kontrolno-otsinyuvalnikh_umin_i_navichok.html">Формування контрольно-оцінювальних умінь і навичок</a></li>
+<li><a href="http://ukrmon59.ed-era.com/5/vstup.html">Вступ</a></li>
+<li><a href="http://ukrmon59.ed-era.com/5/povtorennya_vivkhenogo_v_pokhatkovych_klasah.html">Повторення вивченого у 8 класі</a></li>
+<li><a href="http://ukrmon59.ed-era.com/5/syntaksys_punktuaciya.html">Синтаксис. Пунктуація</a></li>
+<ul type="square">
+<li><a href="http://ukrmon59.ed-era.com/5/pryama_ta_nepryama_mova.html">Пряма й  непряма мова</a></li>
+<li><a href="http://ukrmon59.ed-era.com/5/skladne_rechennya.html">Складне речення й ознаки його. Складносурядне речення</a></li>
+<li><a href="http://ukrmon59.ed-era.com/5/skladnopidryadne_rechennya.html">Складнопідрядне речення</a></li>
+<li><a href="http://ukrmon59.ed-era.com/5/bezspoluchnykove_skladne_rechennya.html">Безсполучникове складне речення</a></li>
+<li><a href="http://ukrmon59.ed-era.com/5/skladne_rechennya_z_riznymi_vydamy.html">Складне речення з різними видами сполучникового й безсполучникового зв'язку</a></li>
 </ul>
+<li><a href="http://ukrmon59.ed-era.com/5/tekst.html">Текст як одиниця мовлення й продукт мовленнєвої діяльності</a></li>
+<li><a href="http://ukrmon59.ed-era.com/5/povtorennya_ta_uzagalnennya_v_kinci_roku.html">Узагальнення й  систематизація вивченого</a></li>
+</ul>
+<li><a href="http://ukrmon59.ed-era.com/5/sotsiokulturna_zmistova_liniya.html">Соціокультурна змістова лінія</a></li>
+<li><a href="http://ukrmon59.ed-era.com/5/diyalnisna_zmistova_liniya.html">Діяльнісна змістова лінія</a></li>
 </ul>
 
 <div class="js-hypercomments-container">
