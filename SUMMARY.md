@@ -1,6 +1,7 @@
 ### Вступ
 
 * [Вступна частина](README.md)
+* [Правила внесення пропозицій та алгоритм обговорення](pravyla.md)
 * [Зміст програми](zmist.md)
 * [Пояснювальна записка](poyasnuvalna_zapyska.md)
    * [Мовленнєва й мовна змістова лінії](movlennyeva_movna_zmistova_liniya.md)
